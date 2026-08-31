@@ -1,5 +1,11 @@
 TECNOLOGÍAS
 
 Tecnologías conocidas:
+c++ 
+Java
+GitHub
 
 Tecnologías que deseo aprender:
+phyton
+Vue
+Sql
