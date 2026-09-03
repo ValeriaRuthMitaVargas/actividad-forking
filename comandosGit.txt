@@ -1,0 +1,28 @@
+COMANDO: git init
+Función: Inicializa un repositorio Git en una carpeta.
+COMANDO: git config user.name
+Función: Configura el nombre del usuario que realizará los commits.
+COMANDO: git config user.email
+Función: Configura el correo electrónico asociado a los commits.
+COMANDO: git status
+Función: Muestra el estado actual del repositorio y los cambios realizados.
+COMANDO: git add
+Función: Prepara los archivos modificados para realizar un commit.
+COMANDO: git commit
+Función: Guarda los cambios preparados en el historial del repositorio.
+COMANDO: git branch
+Función: Muestra las ramas locales del repositorio.
+COMANDO: git remote -v
+Función: Muestra los repositorios remotos configurados y sus direcciones.
+COMANDO: git log --oneline
+Función: Muestra el historial de commits de forma resumida.
+COMANDO: git commit -m
+Función: Guarda los cambios en el historial del repositorio con un mensaje descriptivo.
+COMANDO: git branch -a
+Función: Muestra las ramas locales y remotas del repositorio.
+COMANDO: git fetch upstream
+Función: Descarga información actualizada del repositorio remoto upstream sin modificar los archivos de trabajo.
+COMANDO: git clone
+Función: Crea una copia local de un repositorio remoto.
+COMANDO: git remote add origin
+Función: Agrega el repositorio remoto principal llamado origin.
