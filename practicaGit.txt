@@ -14,3 +14,4 @@ Un Fork es una copia de un repositorio que hacemos dentro de nuestra propia cuen
 Origin es nuestro Fork personal y upstream es el repositorio principal del que hicimos el Fork.
 8. ¿Qué diferencia existe entre main y una rama de trabajo?
 Main es la rama principal. Una rama de trabajo se utiliza para realizar cambios de forma independiente. 
+Actividad realizada en la rama feature-practica-git.
