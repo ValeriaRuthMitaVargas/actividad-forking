@@ -1,0 +1,16 @@
+1. ¿Qué es Git?
+Git es una herramienta que permite controlar y guardar los cambios que hacemos en un proyecto.
+2. ¿Cuál es la diferencia entre Git y GitHub?
+Git es el programa que usamos para controlar los cambios en nuestra computadora. GitHub es una plataforma donde podemos guardar nuestros repositorios en Internet.
+3. ¿Qué es un repositorio?
+Es el lugar donde se encuentra un proyecto y donde Git guarda su historial de cambios.
+4. ¿Qué es un commit?
+Es un registro que guarda los cambios realizados en un proyecto en un momento determinado.
+5. ¿Para qué se utilizan las ramas?
+Las ramas sirven para trabajar en cambios nuevos sin modificar directamente la rama principal.
+6. ¿Qué es un Fork?
+Un Fork es una copia de un repositorio que hacemos dentro de nuestra propia cuenta de GitHub.
+7. ¿Cuál es la diferencia entre origin y upstream?
+Origin es nuestro Fork personal y upstream es el repositorio principal del que hicimos el Fork.
+8. ¿Qué diferencia existe entre main y una rama de trabajo?
+Main es la rama principal. Una rama de trabajo se utiliza para realizar cambios de forma independiente. 
