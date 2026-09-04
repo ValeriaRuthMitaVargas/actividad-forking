@@ -1,7 +1,7 @@
 TECNOLOGÍAS
 
 Tecnologías conocidas:
-c++ 
+c++
 Java
 GitHub
 
